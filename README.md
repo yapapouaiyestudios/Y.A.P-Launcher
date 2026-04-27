@@ -1,11 +1,8 @@
 <div align="center">
-    <img src="https://github.com/RareDevs/Rare/blob/main/docs/assets/RareLogoWide.png?raw=true" alt="Logo" width="200"/>
-    <h2>Rare</h2>
+    <h2>Y.A.P Launcher</h2
     <p>Logo by <a href="https://github.com/MultisampledNight">@MultisampledNight</a> available
         <a href="https://github.com/RareDevs/Rare/blob/main/docs/assets/">here</a>,
         licensed under CC BY-SA 4.0</p>
-    <a href="https://discord.gg/YvmABK9YSk" target="_blank">
-  <img src="https://discordapp.com/api/guilds/826881530310819914/widget.png?style=shield" alt="Discord Shield">
 </a>
 </div>
 
