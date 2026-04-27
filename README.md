@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>Y.A.P Launcher</h2
+    <h1>Y.A.P Launcher</h1>
     <p>Logo by <a href="https://github.com/MultisampledNight">@MultisampledNight</a> available
         <a href="https://github.com/RareDevs/Rare/blob/main/docs/assets/">here</a>,
         licensed under CC BY-SA 4.0</p>
