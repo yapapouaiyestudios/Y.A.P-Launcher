@@ -3,7 +3,7 @@
     <p>Logo by <a href="https://github.com/MultisampledNight">@MultisampledNight</a> available
         <a href="https://github.com/RareDevs/Rare/blob/main/docs/assets/">here</a>,
         licensed under CC BY-SA 4.0</p>
-</a>
+    </a>
 </div>
 
 
